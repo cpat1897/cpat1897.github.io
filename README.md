@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Colten's Homepage
 
 You can use the [editor on GitHub](https://github.com/cpat1897/cpat1897.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
